@@ -1,2 +1,17 @@
 # ScrabngPy-test
 simple python scarping project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IM SAD AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
