@@ -3,15 +3,6 @@ simple python scarping project
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-IM SAD AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+pip install beautifalsoup
+pip install csv
+pip install requests
